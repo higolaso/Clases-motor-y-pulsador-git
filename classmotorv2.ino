@@ -75,7 +75,7 @@ void frenar(){
 }
 
 void setup(){
-  m1.invertDirection();
+  m1.invertirdireccion(); //dl void
 }
 
 void loop(){
